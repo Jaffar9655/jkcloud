@@ -1,0 +1,28 @@
+---
+ID: 121
+post_title: Evolution in Virtual Gaming
+author: jaffar
+post_excerpt: ""
+layout: post
+permalink: https://jkcloud.sytes.net/?p=121
+published: true
+post_date: 2016-09-16 08:54:54
+---
+Virtual reality (VR) is a computer technology that uses software-generated realistic images, sounds and other sensations to replicate a real environment or an imaginary setting, and simulates a user's physical presence in this environment to enable the user to interact with this space. A person using virtual reality equipment is typically able to "look around" the artificial world, move about in it and interact with features or items that are depicted. Virtual realities artificially create sensory experiences, which can include sight, touch, hearing, and, less commonly, smell. Most 2016-era virtual realities are displayed either on a computer monitor, a projector screen, or with a virtual reality headset (also called head-mounted display or HMD). HMDs typically take the form of head-mounted goggles with a screen in front of the eyes. Some simulations include additional sensory information and provide sounds through speakers or headphones.
+
+Some advanced haptic systems in the 2010s now include tactile information, generally known as force feedback in medical, video gaming and military applications. Some VR systems used in video games can transmit vibrations and other sensations to the user via the game controller. Virtual reality also refers to remote communication environments which provide a virtual presence of users with through telepresence and telexistence or the use of a virtual artifact (VA), either through the use of standard input devices such as a keyboard and mouse, or through multimodal devices such as a wired glove or omnidirectional treadmills.
+
+[gallery size="medium" ids="122,123,124"]
+
+The immersive environment can be similar to the real world in order to create a lifelike experience—for example, in simulations for pilot or combat training, which depict realistic images and sounds of the world, where the normal laws of physics apply, or it can differ significantly from reality, such as in VR video games that take place in fantasy settings, where gamers can use fictional magic and telekinesis powers.
+<blockquote>"No matter how old you are now. You are never too young or too old for success or going after what you want.</blockquote>
+In 1938, Antonin Artaud described the illusory nature of characters and objects in the theatre as  in a collection of essays, Le Théâtre et son double. The English translation of this book, published in 1958 as The Theater and its Double, is the earliest published use of the term "virtual reality". The term "artificial reality", coined by Myron Krueger, has been in use since the 1970s. The term "virtual reality" was used in The Judas Mandala, a 1982 science fiction novel by Damien Broderick. The Oxford English Dictionary cites a 1987 article titled "Virtual reality", but the article is not about VR technology. "Virtual" has had the meaning "being something in essence or effect, though not actually or in fact" since the mid-1400s, " <img class="size-medium wp-image-125 alignright" src="https://raratheme.com/preview/numinous/wp-content/uploads/2016/09/jim_smiling-243x300.jpg" alt="jim_smiling" width="243" height="300" />
+
+Probably via sense of "capable of producing a certain effect. The term "virtual" was used in the computer sense of "not physically existing but made to appear by software" since 1959. The term "reality" has been used in English since the 1540s, to mean "quality of being real," from "French réalité and directly Medieval Latin realitatem (nominative realitas), from Late Latin realis".
+Also notable among the earlier hypermedia and virtual reality systems was the Aspen Movie Map, which was created at MIT in 1978. The program was a crude virtual simulation of Aspen,
+
+Colorado in which users could wander the streets in one of three modes: summer, winter, and polygons. The first two were based on photographs—the researchers actually photographed every possible movement through the city's street grid in both seasons—and the third was a basic 3-D model of the city. Atari founded a research lab for virtual reality in 1982, but the lab was closed after two years due to Atari Shock (North American video game crash of 1983).
+
+However, its hired employees, such as Tom Zimmerman, Scott Fisher, Jaron Lanier and Brenda Laurel, kept their research and development on VR-related technologies. By the 1980s the term "virtual reality" was popularized by Jaron Lanier, one of the modern pioneers of the field. Lanier had founded the company VPL Research in 1985. VPL Research has developed several VR devices like the Data Glove, the Eye Phone, and the Audio Sphere. VPL licensed the Data Glove technology to Mattel, which used it to make an accessory known as the Power Glove. While the Power Glove was hard to use and not popular, at US$75, it was early affordable VR device.
+
+During this time, virtual reality was not well known, though it did receive media coverage in the late 1980s. Most of its popularity came from marginal cultures, like cyberpunks, who viewed the technology as a potential means for social change, and drug culture, who praised virtual reality not only as a new art form, but as an entirely new frontier. The concept of virtual reality was popularized in mass media by movies such as Brainstorm and The Lawnmower Man. The VR research boom of the 1990s was accompanied by the non-fiction book Virtual Reality by Howard Rheingold. The book served to demystify the subject, making it more accessible to researchers outside of the computer sphere and sci-fi enthusiasts.
